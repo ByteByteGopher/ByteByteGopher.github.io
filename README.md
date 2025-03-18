@@ -1,3 +1,3 @@
 # README
 
-Hello World, from ByteByteGopher
+Hello World, from Byte Byte Gopher
